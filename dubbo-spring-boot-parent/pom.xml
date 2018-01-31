@@ -22,8 +22,6 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>1.5.9.RELEASE</spring-boot.version>
         <dubbo.version>2.6.1</dubbo.version>
-        <zkclient.version>0.10</zkclient.version>
-        <dubbo.version>2.5.9</dubbo.version>
         <zkclient.version>0.2</zkclient.version>
         <zookeeper.version>3.4.9</zookeeper.version>
         <curator-framework.version>2.12.0</curator-framework.version>
